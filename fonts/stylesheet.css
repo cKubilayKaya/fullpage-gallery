@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'Paralucent';
+    src: url('subset-Paralucent-Bold.woff2') format('woff2'),
+        url('subset-Paralucent-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Paralucent Extra';
+    src: url('subset-Paralucent-ExtraLight.woff2') format('woff2'),
+        url('subset-Paralucent-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Paralucent Demi';
+    src: url('subset-Paralucent-DemiBold.woff2') format('woff2'),
+        url('subset-Paralucent-DemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Paralucent';
+    src: url('subset-Paralucent-Heavy.woff2') format('woff2'),
+        url('subset-Paralucent-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Paralucent';
+    src: url('subset-Paralucent-Light.woff2') format('woff2'),
+        url('subset-Paralucent-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Paralucent';
+    src: url('subset-Paralucent-Medium.woff2') format('woff2'),
+        url('subset-Paralucent-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Paralucent';
+    src: url('subset-Paralucent-Thin.woff2') format('woff2'),
+        url('subset-Paralucent-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
